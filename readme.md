@@ -19,4 +19,5 @@ cd Spam-SMS-Detection
 pip install -r requirements.txt
 streamlit run app.py
 
+##
 <p align="center">Made with ❤️ by <a href="https://instagram.com/theidealcoder">@theidealcoder</a></p>
